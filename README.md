@@ -4,3 +4,5 @@
 
 ### Implementações-extra (A+):
 Função Dark Mode, melhorias visuais e página de Erro 404.
+
+Por: Pedro Dutra
